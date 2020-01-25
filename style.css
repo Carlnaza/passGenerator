@@ -50,8 +50,14 @@ header {
   height: 2px;
 }
 
+.charSet {
+  width: 50px;
+  margin-left: 5px;
+}
+
 .card-body {
   min-height: 100px;
+  margin-top: 5px;
 }
 
 .card-footer {
